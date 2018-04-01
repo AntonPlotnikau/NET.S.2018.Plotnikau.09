@@ -1,0 +1,23 @@
+C:\Users\MIB\Desktop\StreamsTask2017\StreamsDemo\obj\Debug\StreamsDemo.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\StreamsTask2017\StreamsDemo\bin\Debug\StreamsDemo.dll
+C:\Users\MIB\Desktop\StreamsTask2017\StreamsDemo\bin\Debug\StreamsDemo.pdb
+C:\Users\MIB\Desktop\StreamsTask2017\StreamsDemo\obj\Debug\StreamsDemo.dll
+C:\Users\MIB\Desktop\StreamsTask2017\StreamsDemo\obj\Debug\StreamsDemo.pdb
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\StreamsDemo\bin\Debug\StreamsDemo.dll
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\StreamsDemo\bin\Debug\StreamsDemo.pdb
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\StreamsDemo\obj\Debug\StreamsDemo.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\StreamsDemo\obj\Debug\StreamsDemo.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\StreamsDemo\obj\Debug\StreamsDemo.dll
+C:\Users\MIB\Desktop\New tasks for Spring training 2018\StreamsTask2017\StreamsDemo\obj\Debug\StreamsDemo.pdb
+E:\M13.Streams.Task\StreamsDemo\bin\Debug\StreamsDemo.dll
+E:\M13.Streams.Task\StreamsDemo\bin\Debug\StreamsDemo.pdb
+E:\M13.Streams.Task\StreamsDemo\obj\Debug\StreamsDemo.csproj.CoreCompileInputs.cache
+E:\M13.Streams.Task\StreamsDemo\obj\Debug\StreamsDemo.dll
+E:\M13.Streams.Task\StreamsDemo\obj\Debug\StreamsDemo.pdb
+E:\M13.Streams.Task\StreamsDemo\obj\Debug\StreamsDemo.csprojResolveAssemblyReference.cache
+E:\Task2\NET.S.2018.Plotnikau.09\StreamsDemo\bin\Debug\StreamsDemo.dll
+E:\Task2\NET.S.2018.Plotnikau.09\StreamsDemo\bin\Debug\StreamsDemo.pdb
+E:\Task2\NET.S.2018.Plotnikau.09\StreamsDemo\obj\Debug\StreamsDemo.csprojResolveAssemblyReference.cache
+E:\Task2\NET.S.2018.Plotnikau.09\StreamsDemo\obj\Debug\StreamsDemo.csproj.CoreCompileInputs.cache
+E:\Task2\NET.S.2018.Plotnikau.09\StreamsDemo\obj\Debug\StreamsDemo.dll
+E:\Task2\NET.S.2018.Plotnikau.09\StreamsDemo\obj\Debug\StreamsDemo.pdb
